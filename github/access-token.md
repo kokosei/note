@@ -14,7 +14,7 @@ remote: Invalid username or token. Password authentication is not supported for 
 6. Generate new token {v}
 7. Generate new token (classic)
 8. Note を適当に埋める
-9. Expiration も適当に変える
+9. Expiration は好きな長さに
 10. repo を全体チェック
 11. Generate token
 12. 生成されたキーを確実にコピーし、Passwordの欄に貼り付ける（表示されないので注意）
